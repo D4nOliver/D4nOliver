@@ -3,8 +3,8 @@
 - 🌱 I’m currently Learning english and studying to be a CTD and a future front/back-end or full stack especialist 
 - 💞️ I’m looking to collaborate on (i don´t know what write here) 
 - 📫 You can contact me on:
-               - Email: danieloliversilva9@outlook.com
-               - linkedIn: https://www.linkedin.com/in/daniel-oliveira-24518b204/
+- Email: danieloliversilva9@outlook.com
+- linkedIn: https://www.linkedin.com/in/daniel-oliveira-24518b204/
 <!---
 D4nOliver/D4nOliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
